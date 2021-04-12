@@ -1,0 +1,9 @@
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\bin\Debug\netstandard2.0\CamadaModelo.deps.json
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\bin\Debug\netstandard2.0\CamadaModelo.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\bin\Debug\netstandard2.0\CamadaModelo.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\obj\Debug\netstandard2.0\CamadaModelo.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\obj\Debug\netstandard2.0\CamadaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\obj\Debug\netstandard2.0\CamadaModelo.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\obj\Debug\netstandard2.0\CamadaModelo.AssemblyInfo.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\obj\Debug\netstandard2.0\CamadaModelo.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaModelo\obj\Debug\netstandard2.0\CamadaModelo.pdb

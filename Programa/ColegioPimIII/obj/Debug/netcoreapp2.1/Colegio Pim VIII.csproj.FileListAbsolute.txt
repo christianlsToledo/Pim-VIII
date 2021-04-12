@@ -1,0 +1,32 @@
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.deps.json
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.runtimeconfig.json
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.runtimeconfig.dev.json
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.Views.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\bin\Debug\netcoreapp2.1\Colegio Pim VIII.Views.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.RazorAssemblyInfo.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.RazorAssemblyInfo.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.AssemblyInfo.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.TagHelpers.input.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.TagHelpers.output.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.RazorCoreGenerate.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditaLista.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Home\ListaTarefas.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Home\NovaTarefa.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.RazorTargetAssemblyInfo.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.RazorTargetAssemblyInfo.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.Views.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa\ColegioPimIII\obj\Debug\netcoreapp2.1\Colegio Pim VIII.csproj.CopyComplete

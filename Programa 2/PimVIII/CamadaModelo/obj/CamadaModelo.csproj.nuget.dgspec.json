@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Familia\\Desktop\\Unip\\Pim VIII\\Programa 2\\PimVIII\\CamadaModelo\\CamadaModelo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Familia\\Desktop\\Unip\\Pim VIII\\Programa 2\\PimVIII\\CamadaModelo\\CamadaModelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Familia\\Desktop\\Unip\\Pim VIII\\Programa 2\\PimVIII\\CamadaModelo\\CamadaModelo.csproj",
+        "projectName": "CamadaModelo",
+        "projectPath": "C:\\Users\\Familia\\Desktop\\Unip\\Pim VIII\\Programa 2\\PimVIII\\CamadaModelo\\CamadaModelo.csproj",
+        "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Familia\\Desktop\\Unip\\Pim VIII\\Programa 2\\PimVIII\\CamadaModelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "lcpi.data.oledb": {
+              "target": "Package",
+              "version": "[1.14.1.3980, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

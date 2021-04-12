@@ -1,0 +1,12 @@
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.AssemblyInfo.cs
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\bin\Debug\netstandard2.0\CamadaControle.deps.json
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\bin\Debug\netstandard2.0\CamadaControle.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\bin\Debug\netstandard2.0\CamadaControle.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\bin\Debug\netstandard2.0\CamadaModelo.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\bin\Debug\netstandard2.0\CamadaModelo.pdb
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.csproj.CopyComplete
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.dll
+C:\Users\Familia\Desktop\Unip\Pim VIII\Programa 2\PimVIII\CamadaControle\obj\Debug\netstandard2.0\CamadaControle.pdb
